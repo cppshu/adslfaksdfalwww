@@ -9,7 +9,7 @@ public class Main {
 
     public String sayBonjour(){
         // return a string that represents "hi".
-        return "booooj";
+        return "bj";
     }
 
     public static void main(String[] args){
